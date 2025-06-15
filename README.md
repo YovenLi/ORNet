@@ -74,18 +74,6 @@ scipy>=1.6.0
 open3d
 ```
 
-## Citation
-
-If you find this work useful for your research, please cite our paper:
-
-```bibtex
-@inproceedings{ornet2025,
-  title={ORNet: No-reference Point Cloud Quality Assessment in an Ordinal Regression Way},
-  author={Anonymous},
-  booktitle={IEEE International Conference on Multimedia and Expo (ICME)},
-  year={2025},
-}
-```
 
 ## Note
 
